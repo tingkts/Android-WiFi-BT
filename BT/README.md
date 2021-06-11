@@ -195,12 +195,14 @@ enum HciPacketType {
 - hci event callback
 
 
-
+&emsp;&emsp;![hci event callback](./diagram/hci%20event%20callback.png "hci event callback")
 
 
 &emsp;
 &emsp;
 <br/>
+
+
 
 
 ## Miscellaneous
