@@ -68,10 +68,7 @@ enum HciPacketType {
 ## HCI Module
 
 
-
-<b><font size=5>◤ </font></b>
-<u><b><font size=3>system/bt</font></b></u>
-<b><font size=4> :</font></b>
+### ◤ system/bt
 
 
 
@@ -185,15 +182,17 @@ enum HciPacketType {
 
 
 
-<b><font size=5>◤ </font></b>
-<u><b><font size=3>hardware/interface/bt</font></b></u>
-<b><font size=4> :</font></b>
 
-&emsp;‐&nbsp; android.hardware.bluetooth@1.0
+
+### ◤ hardware/interface/bt
+
+- android.hardware.bluetooth@1.0
 
 &emsp;&emsp;![android.hardware.bluetooth@1.0](https://github.com/tingkts/Android-WiFi-BT/blob/main/BT/diagram/android.hardware.bluetooth%401.0-service.png "android.hardware.bluetooth@1.0")
 
-&emsp;‐&nbsp; hci event callback
+
+
+- hci event callback
 
 
 
