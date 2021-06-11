@@ -1,6 +1,5 @@
 ## BT module hierarchy
------
-&emsp;
+
 ![BT module hierachy](./diagram/BT%20module%20hierachy.png "BT module hierachy")
 
 
@@ -13,7 +12,7 @@
 
 
 ## HCI Packet
------
+
 ### opcode :
 
 
@@ -67,7 +66,7 @@ enum HciPacketType {
 <br/>
 
 ## HCI Module
------
+
 
 
 <b><font size=5>◤ </font></b>
@@ -201,7 +200,7 @@ enum HciPacketType {
 
 
 ## Miscellaneous
------
+
 ### BT abbreviation
 - [Bluetooth terminology](https://www.google.com/search?q=BLuetooth%E8%A1%93%E8%AA%9E&oq=BLuetooth%E8%A1%93%E8%AA%9E&aqs=chrome..69i57j0i333.12274j0j7&sourceid=chrome&ie=UTF-8)
 - [What's Bluetooth LE (BLE)](https://www.google.com/search?q=Bluetooth+LE+%E6%98%AF%E4%BB%80%E9%BA%BC&oq=Bluetooth+LE+%E6%98%AF%E4%BB%80%E9%BA%BC&aqs=chrome..69i57j33i160.30570j0j7&sourceid=chrome&ie=UTF-8)
