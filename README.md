@@ -4,7 +4,7 @@
 </br>
 
 
-◤ [Vendor information](.\vendor%20info.md)
+◤ [Vendor information](https://github.com/tingkts/Android-WiFi-BT/blob/main/vendor%20info.md)
 
 
 </br>
