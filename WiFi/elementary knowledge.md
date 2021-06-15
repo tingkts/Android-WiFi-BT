@@ -34,6 +34,7 @@
 作者： 柯俊先 - 11月 26, 2018](https://note-on-clouds.blogspot.com/2018/11/wifi-bss-ess-ssid-essid-bssid.html)
 
 
+&emsp;<img src=".\assets\ESSID,%20BSSID.png" width="75%" height="75%">
 
 <br/>
 <br/>
