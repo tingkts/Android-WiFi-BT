@@ -1,4 +1,4 @@
-Record something about porting WiFi/BT module of [WM-BAC-AT-09](https://www.usiglobal.com/en/products?id=9b06a423-d87b-4479-9df6-172d9763db70#description) ([QCA9377](https://www.qualcomm.com/products/qca9377)) in the platform imx8mp android10.
+#### Record something about porting WiFi/BT module of [WM-BAC-AT-09](https://www.usiglobal.com/en/products?id=9b06a423-d87b-4479-9df6-172d9763db70#description) ([QCA9377](https://www.qualcomm.com/products/qca9377)) in the platform imx8mp android10.
 
 
 </br>
@@ -12,7 +12,7 @@ Record something about porting WiFi/BT module of [WM-BAC-AT-09](https://www.usig
 
 ◤ Module hierarchy :
 
-&ensp;&ensp;![](.\module%20hierachy.png)
+&ensp;&ensp;![](https://github.com/tingkts/Android-WiFi-BT/blob/main/module%20hierachy.png)
 
 
 </br>
