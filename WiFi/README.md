@@ -130,15 +130,15 @@ H A D	HostapdHal.java	358 status = iHostapdV1_1.addAccessPoint_1_1(ifaceParams1_
 
     IFaceType			ChipMode id 0				ChipMode id 1
 
-    STA		0					1						0
+    STA		0			1					0
 
-    AP		1					0						1
+    AP		1			0					1
 
-    P2P		2					1						0
+    P2P		2			1					0
 
-    NAN		3					0						0
+    NAN		3			0					0
 
-                            STA/P2P						AP only
+                               	     STA/P2P				     AP only
 
 
 
