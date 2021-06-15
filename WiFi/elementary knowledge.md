@@ -29,7 +29,7 @@
 
 ### BSSID, ESSID
 
-- [WIKO: Service Set](https://zh.wikipedia.org/wiki/%E6%9C%8D%E5%8A%A1%E9%9B%86_(%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91)#%E6%9C%8D%E5%8B%99%E9%9B%86%E8%AD%98%E5%88%A5%E7%A2%BC)
+- [wikipedia: Service Set](https://zh.wikipedia.org/wiki/%E6%9C%8D%E5%8A%A1%E9%9B%86_(%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91)#%E6%9C%8D%E5%8B%99%E9%9B%86%E8%AD%98%E5%88%A5%E7%A2%BC)
 - [WiFi 網路的識別: BSS, ESS, SSID, ESSID, BSSID
 作者： 柯俊先 - 11月 26, 2018](https://note-on-clouds.blogspot.com/2018/11/wifi-bss-ess-ssid-essid-bssid.html)
 
