@@ -12,7 +12,7 @@
 
 ◤ Module hierarchy :
 
-&ensp;&ensp;![](https://github.com/tingkts/Android-WiFi-BT/blob/main/module%20hierachy.png)
+&ensp;&ensp;![](https://github.com/tingkts/Android-WiFi-BT/blob/main/assets/module%20hierachy.png)
 
 
 </br>
