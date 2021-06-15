@@ -214,3 +214,9 @@ enum HciPacketType {
 ### BT HCI
 - [蓝牙HCI command/event/acl/sco格式介绍_朝气蓬勃-CSDN博客](https://blog.csdn.net/XiaoXiaoPengBo/article/details/107638914)
 - [如何分析HCI的Command Packet和Event Packet包_daydayupfromnowon的专栏-CSDN博客](https://blog.csdn.net/daydayupfromnowon/article/details/6324227)
+
+
+### BT Profile/Protocol
+- [What's the HSP, HFP, A2DP, AVRCP](https://blog.witsper.com/tips/bluetooth-profile/)
+
+
