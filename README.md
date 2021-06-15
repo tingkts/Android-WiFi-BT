@@ -18,4 +18,4 @@
 </br>
 </br>
 
-◤ [Patches of qca9377 in imx8mp android10](.\patch%20of%20qca9377%20in%20imx8mp%20android10.zip)
+◤ [patch: porting qca9377 in imx8mp android10](.\patch%20of%20qca9377%20in%20imx8mp%20android10.zip)
