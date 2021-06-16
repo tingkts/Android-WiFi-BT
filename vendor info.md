@@ -10,9 +10,8 @@
 </br>
 </br>
 
-### Qualcomm support :
+### [Qualcomm support](https://www.qualcomm.com/support) :
 
-&ensp;‐&emsp;[Qualcomm support website](https://www.qualcomm.com/support)
 
 &ensp;‐&emsp;[ChipCode (View and Download)](https://chipcode.qti.qualcomm.com)
 
