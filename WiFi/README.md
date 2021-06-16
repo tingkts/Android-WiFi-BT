@@ -5,8 +5,22 @@
 
 [Background knowledge](./elementary%20knowledge.md)
 
+</br>
 
-iw command :
+
+
+Call hierarchy:
+
+![](./assets/drawio/call%20hierachy.png)
+
+
+
+</br>
+
+
+
+
+iw command : &emsp; [⥂](./iw%20--help.txt)
 ```shell
 iw dev wlan0 scan
 
@@ -83,8 +97,6 @@ pixel:/ # getprop | grep -i wifi
 AP
 * * *
 
-沒錯,Android hotspot所assign IP range是192.168.43.X,這是正確的
-
 Create AP interface (ifcae) :
 ```
 // frameworks/opt/net/wifi/service/java/com/android/server/wifi/
@@ -146,6 +158,9 @@ H A D	HostapdHal.java	358 status = iHostapdV1_1.addAccessPoint_1_1(ifaceParams1_
 
     05-18 03:48:20.294  2590  2590 I hostapd : lyt: wlan0 config=/data/vendor/wifi/hostapd/hostapd_wlan0.conf
 ```
+
+
+> The IP assigned by Android hotspot is in the range of 192.168.43.*.
 
 </br>
 </br>
