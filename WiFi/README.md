@@ -9,7 +9,7 @@
 
 
 
-Call hierarchy:
+Call hierarchy :
 
 ![](./assets/drawio/call%20hierachy.png)
 
