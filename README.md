@@ -12,10 +12,15 @@
 
 ◤ Module hierarchy :
 
-&ensp;&ensp;![](https://github.com/tingkts/Android-WiFi-BT/blob/main/assets/module%20hierachy.png)
+
+&ensp; <img src="./assets/module%20hierachy.png" width="60%" height="60%" alt="module hierachy"/>
 
 
 </br>
 </br>
+
+
+******
+◤ [Porting minute](.\porting%20minute%20of%20android)
 
 ◤ [patch: porting qca9377 in imx8mp android10](.\patch%20of%20qca9377%20in%20imx8mp%20android10.zip)
