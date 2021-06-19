@@ -13,7 +13,7 @@
 
 &ensp;&ensp; - Porting guide
 
-&ensp;&ensp; - Sources or Modules (Binary release) of Driver, Firmware, HIDL/HAL, and additional optional configuration files.
+&ensp;&ensp; - Sources or Modules (Binary release) of __***Driver***__, __***Firmware***__, __***HIDL/HAL***__, and additional optional __***configuration files***__.
 
 
 
