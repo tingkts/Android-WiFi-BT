@@ -84,7 +84,7 @@ __**BT**__
 
 
 
-☞&ensp;ibbuletooth.so&ensp;⚭&ensp;/system/bt
+☞&ensp;libbuletooth.so&ensp;⚭&ensp;/system/bt
 
     ▸ opcode HCI_BLE_READ_MAXIMUM_DATA_LENGTH (0x202F), responds "illegal command"
 
