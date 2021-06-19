@@ -1,7 +1,7 @@
 ## BT module hierarchy
 
 
-&emsp;
+
 
 &emsp;<img src="./diagram/BT%20module%20hierachy.png" width="60%" height="60%" alt="BT module hierachy"/>
 
