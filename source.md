@@ -5,7 +5,7 @@ Kernel
 
 Firmware
 
-    vendor/nxp/imx-firmware    // optional in the bsp path, but must put in device path of vendor/firmware in nxp i.MX* platform
+    vendor/nxp/imx-firmware    // optional in the bsp path, but must put in device path of vendor/firmware in nxp i.MX platform
 
 HIDL
 
