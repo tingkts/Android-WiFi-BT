@@ -1,23 +1,22 @@
 ## BT module hierarchy
 
-![BT module hierachy](./diagram/BT%20module%20hierachy.png "BT module hierachy")
-
 
 &emsp;
+
+&emsp;<img src="./diagram/BT%20module%20hierachy.png" width="60%" height="60%" alt="BT module hierachy"/>
+
+
+
+
 <br/>
-
-
-
-
-
+<br/>
+<br/>
 
 ## HCI Packet
 
 ### opcode :
 
-
-
-&emsp;![opcode](./diagram/hci%20packet%20-%20opcode.png "hci packet - opcode")
+&emsp;<img src="./diagram/hci%20packet%20-%20opcode.png" width="30%" height="30%" alt="hci packet - opcode"/>
 
 &emsp;[system/bt/stack/include/hcidefs.h](https://android.googlesource.com/platform/system/bt/+/refs/tags/android-10.0.0_r41/stack/include/hcidefs.h)
 
@@ -57,12 +56,14 @@ enum HciPacketType {
 &emsp;
 ### hci packet format :
 
-![hci package format](./diagram/hci%20packet%20format.png "hci package format")
+
+&emsp;<img src="./diagram/hci%20packet%20format.png" width="70%" height="70%" alt="hci package format"/>
 
 
 
 
-&emsp;
+<br/>
+<br/>
 <br/>
 
 ## HCI Module
@@ -188,35 +189,45 @@ enum HciPacketType {
 
 - android.hardware.bluetooth@1.0
 
-&emsp;&emsp;![android.hardware.bluetooth@1.0](https://github.com/tingkts/Android-WiFi-BT/blob/main/BT/diagram/android.hardware.bluetooth%401.0-service.png "android.hardware.bluetooth@1.0")
-
+&emsp;&emsp; <img src="./diagram/android.hardware.bluetooth%401.0-service.png" width="70%" height="70%" alt="android.hardware.bluetooth@1.0"/>
 
 
 - hci event callback
 
+&emsp;&emsp;<img src="./diagram/hci%20event%20callback.png" width="70%" height="70%" alt="hci event callback"/>
 
-&emsp;&emsp;![hci event callback](./diagram/hci%20event%20callback.png "hci event callback")
 
 
-&emsp;
-&emsp;
+
 <br/>
-
-
-
+<br/>
+<br/>
 
 ## Miscellaneous
 
-### BT abbreviation
+### Bluetooth abbreviation
 - [Bluetooth terminology](https://www.google.com/search?q=BLuetooth%E8%A1%93%E8%AA%9E&oq=BLuetooth%E8%A1%93%E8%AA%9E&aqs=chrome..69i57j0i333.12274j0j7&sourceid=chrome&ie=UTF-8)
 - [What's Bluetooth LE (BLE)](https://www.google.com/search?q=Bluetooth+LE+%E6%98%AF%E4%BB%80%E9%BA%BC&oq=Bluetooth+LE+%E6%98%AF%E4%BB%80%E9%BA%BC&aqs=chrome..69i57j33i160.30570j0j7&sourceid=chrome&ie=UTF-8)
 
-### BT HCI
+### Bluetooth HCI
 - [蓝牙HCI command/event/acl/sco格式介绍_朝气蓬勃-CSDN博客](https://blog.csdn.net/XiaoXiaoPengBo/article/details/107638914)
 - [如何分析HCI的Command Packet和Event Packet包_daydayupfromnowon的专栏-CSDN博客](https://blog.csdn.net/daydayupfromnowon/article/details/6324227)
 
 
-### BT Profile/Protocol
+### Bluetooth Protocol/Profile
+- [Bluetooth GATT](https://www.google.com/search?q=bluetooth+GATT&rlz=1C1GCEU_zh-TWTW892TW892&oq=bluetooth+GATT&aqs=chrome..69i57j0l9.4520j0j7&sourceid=chrome&ie=UTF-8)
 - [What's the HSP, HFP, A2DP, AVRCP](https://blog.witsper.com/tips/bluetooth-profile/)
 
 
+### Bluetooth subsystem
+- [bluetooth btif](https://www.google.com/search?q=bluetooth+btif&oq=bluetooth+btif&aqs=chrome..69i57j0i5i30j0i8i10i30j0i8i30l2.6237j0j7&client=ms-android-oppo-rev1&sourceid=chrome-mobile&ie=UTF-8)
+- [android5.1 藍芽子系統介紹（一）Android下bluedroid、bluetooth apk介紹 - IT閱讀](https://www.itread01.com/content/1548699142.html)
+
+
+### Bluetooth scan &nbsp;  [⥂](https://www.google.com/search?q=android+%E8%97%8D%E7%89%99+scan%E6%B5%81%E7%A8%8B&rlz=1C1GCEU_zh-TWTW892TW892&oq=android+%E8%97%8D%E7%89%99+scan%E6%B5%81%E7%A8%8B+&aqs=chrome..69i57j0i333l2.27403j0j7&sourceid=chrome&ie=UTF-8)
+- [經典藍牙inquiry與inquiry scan - 台部落](https://www.twblogs.net/a/5c25c2ebbd9eee16b3db7d97)
+- [Android 9.0 蓝牙扫描流程_一个Android菜鸟的博客-CSDN博客](https://blog.csdn.net/qq_43804080/article/details/105711347)
+- [GATT scan的流程 - 雪山飞燕 - 博客园](https://www.cnblogs.com/libs-liu/p/9166075.html)
+
+
+### Bluetooth PAN &nbsp;  [⥂](https://www.google.com/search?q=%E4%BB%80%E9%BA%BC%E6%98%AFbluetooth+pan&rlz=1C1GCEU_zh-TWTW892TW892&sxsrf=ALeKk017XgrcIYWH3tJRkGCoU3-biKkjHQ%3A1623997669263&ei=5TzMYIehD6W0mAWYq424Dw&oq=%E4%BB%80%E9%BA%BC%E6%98%AFbluetooth+pan&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwgjELACECc6BggAEAcQHjoECAAQDToECCMQJzoCCAA6CAgAEAcQChAeOgUIABDLAToFCAAQzQJQ7CdYn1tgt2NoA3ACeACAAVqIAYEHkgECMTSYAQCgAQGqAQdnd3Mtd2l6yAECwAEB&sclient=gws-wiz&ved=0ahUKEwjHp8ThxqDxAhUlGqYKHZhVA_cQ4dUDCA4&uact=5)
