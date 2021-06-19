@@ -1,6 +1,6 @@
 ### Source tree
 
-&ensp; [Platform: imx8mp andorid10  &ensp; ⥂](.\source.md)
+&ensp; [Platform: imx8mp andorid10  &ensp; ⥂](https://github.com/tingkts/Android-WiFi-BT/blob/main/source.md)
 
 
 </br>
