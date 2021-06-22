@@ -23,4 +23,4 @@
 ******
 ◤ [Porting minute](https://github.com/tingkts/Android-WiFi-BT/blob/main/porting%20minute%20of%20android.md)
 
-◤ [patch: porting qca9377 in imx8mp android10](.\patch%20of%20qca9377%20in%20imx8mp%20android10.zip)
+◤ [patch: porting qca9377 in imx8mp android10](https://github.com/tingkts/Android-WiFi-BT/blob/main/assets/patch%20of%20qca9377%20in%20imx8mp%20android10/imx8mp-android-10.0.0_2.6.0.zip)
