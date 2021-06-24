@@ -165,6 +165,39 @@ H A D	HostapdHal.java	358 status = iHostapdV1_1.addAccessPoint_1_1(ifaceParams1_
 </br>
 </br>
 
+******
+
+</br>
+
+### Wi-Fi Country Code
+
+- [Qualcomm WiFi country code / CSDN kv110](https://blog.csdn.net/kv110/article/details/104419721)
+
+- [高通Android7.1 WIFI国家码问题 / CSDN VaderZhang](https://blog.csdn.net/zhangdaxia2/article/details/90545175)
+
+- [[RK3399/RK3328/RK3288][Android7.1.1] WIFI:国家码导致部分信道不支持的问题(无法扫描到wifi) / CSDN 风之空响](https://blog.csdn.net/weixin_39966398/article/details/103310505)
+
+- [命令設定wifi國家碼](https://www.itread01.com/content/1541806476.html)
+
+
+</br>
+
+### Wi-Fi Direct &ensp;[ 🔗 ](https://www.youtube.com/results?search_query=android+wifi+direct)
+
+- [Wi-Fi P2P API / developer.android.com](https://developer.android.com/guide/topics/connectivity/wifip2p)
+
+  － [WiFi Direct详解（p2p使能，扫描，连接流程）基于Android8.1.0 / CSDN 二十岁了还没有去过星巴克](https://blog.csdn.net/qq_43804080/article/details/92133306?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162433174516780265464072%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=162433174516780265464072&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-92133306.first_rank_v2_pc_rank_v29&utm_term=android+wifi+direct&spm=1018.2226.3001.4187)
+
+  － [Android平台Wifi_Direct使用 / CSDN a220315410](https://blog.csdn.net/a220315410/article/details/9114653?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162433174516780265464072%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=162433174516780265464072&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-6-9114653.first_rank_v2_pc_rank_v29&utm_term=android+wifi+direct&spm=1018.2226.3001.4187)
+
+  － [android中wifidirect的操作学习 / CSDN mockingbirds](https://blog.csdn.net/mockingbirds/article/details/40794865?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162433174516780265464072%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=162433174516780265464072&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-7-40794865.first_rank_v2_pc_rank_v29&utm_term=android+wifi+direct&spm=1018.2226.3001.4187)
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&ensp;&ensp;&ensp;&ensp;[↪](https://so.csdn.net/so/search?q=android%20wifi%20direct&t=&u=)
+
+
+- [如何测试wifi direct的传输速度 / CSDN myxmu](https://blog.csdn.net/myxmu/article/details/12249751)
 
 
 
