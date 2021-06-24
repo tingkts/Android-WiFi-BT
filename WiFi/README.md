@@ -66,6 +66,8 @@ wlan1     Link encap:Ethernet  HWaddr 0a:3a:88:a6:c6:da  Driver ar6k_wlan       
           TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:3000
           RX bytes:0 TX bytes:0
+
+P.S. STA/P2P can coexist, on the contrary, they are mutually exclusive with AP.
 ```
 
 wifi service :
